@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @data-hex
-- 👀 I’m interested in math, literature, industrial music, occult, history, politics, ashtanga yoga
+- 👀 I’m interested in maths, literature, industrial music, occult, history, politics, ashtanga yoga
 - 🌱 I’m currently learning Python, statistics, probability theory, machine learning, parsing, QA, data science, english
 - 💞️ Yekaterinburg, Russia
 - 📫 How to reach me: sverdlova3@gmail.com
